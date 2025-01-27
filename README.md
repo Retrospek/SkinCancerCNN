@@ -1,14 +1,5 @@
 # 🚀 Mars Landmark Classifier  
 
-## 📚 Table of Contents
-1. [Project Overview](#project-overview)  
-2. [Key Features](#key-features)  
-3. [System Architecture](#system-architecture)  
-4. [Technologies Used](#technologies-used)  
-5. [How to Use](#how-to-use)  
-6. [Results](#results)  
-7. [Acknowledgments](#acknowledgments)  
-
 ---
 
 ## 🌍 Project Overview  
